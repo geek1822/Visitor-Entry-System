@@ -10,5 +10,6 @@ A web application which can capture the Name, Email, Phone number of the visitor
 
 
 SENDING EMAILS:
+
 For sending emails the written code uses REST API by EmailJS.
 
