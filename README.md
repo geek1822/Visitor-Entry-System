@@ -14,3 +14,7 @@ A web application which can capture the Name, Email, Phone number of the visitor
 # SENDING EMAIL:
 For sending emails the written code uses REST API by EmailJS.
 
+# Features
+1. This web application is build using Java Server Pages, HTML5, CSS3, JavaScript, Servlet, MYSQL.
+2. This is a responsive and dynamic website that works on all devices.
+
